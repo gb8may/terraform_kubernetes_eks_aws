@@ -1,7 +1,9 @@
 # Terraform_Kubernetes_EKS_AWS
 How to provision Kubernetes cluster in AWS EKS using Terraform.
 
-Requirements > (for Mac OS X 10.15.4):
+Requirements 
+> I'm using Mac OS X 10.15.4
+
 - AWS Account
 - AWS CLI
 ```
