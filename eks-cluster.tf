@@ -5,8 +5,6 @@ module "eks" {
 
   tags = {
     Environment = "dev"
-    GithubRepo  = "terraform_kubernetes_eks_aws"
-    GithubOrg   = "terraform-aws-modules"
   }
 
   vpc_id = module.vpc.vpc_id
