@@ -28,4 +28,13 @@ Setting up the environment
 
 ```
 $ git clone https://github.com/gb8may/terraform_kubernetes_eks_aws.git
+$ cd terraform_kubernetes_eks_aws
+```
+Initializing the workspace
+```
+$ terraform init
+```
+Creating the cluster
+```
+$ terraform apply
 ```
