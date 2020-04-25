@@ -27,5 +27,5 @@ Requirements:
 Setting up the environment
 
 ```
-git clone 
+$ git clone https://github.com/gb8may/terraform_kubernetes_eks_aws.git
 ```
